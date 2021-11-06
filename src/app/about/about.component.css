@@ -1,0 +1,13 @@
+h1, p{
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+    width: 75%;
+    margin: 0 auto;
+    backdrop-filter: blur(3px);
+}
+
+div{
+    background-image: url('https://wallpaperaccess.com/full/704397.jpg') ;
+    height: 100vh;
+}
