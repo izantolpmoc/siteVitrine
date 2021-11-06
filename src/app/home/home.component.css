@@ -1,6 +1,11 @@
 .conteneur{
     position: relative;
     height: 80vh;
+    top: 0;
+}
+
+.carousel{
+    margin-top: -50px !important;
 }
 
 h1{
@@ -13,6 +18,7 @@ h1{
     color: black;
     font-family: fantasy;
     letter-spacing: 0.5em;
+    padding-top: 150px;
 }
 
 p{
